@@ -1,1 +1,2 @@
 Name: Toyota
+Price: 20000$

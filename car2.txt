@@ -1,1 +1,2 @@
 Name: Mercedes
+Price: 15000$
